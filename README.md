@@ -34,6 +34,6 @@ Exportez le projet en tant qu'archive WAR
 
 Déployez l'archive sur votre serveur d'application en suivant les instructions de votre serveur
 
-Ouvrez votre navigateur et accédez à l'application en entrant l'URL suivante : http://localhost:8080/nom_de_votre_application (remplacez nom_de_votre_application par le nom de votre application déployée)
+Ouvrez votre navigateur et accédez à l'application en entrant l'URL suivante : http://localhost:4200/nom_de_votre_application (remplacez nom_de_votre_application par le nom de votre application déployée)
 # Auteur
 Ce projet a été réalisé par [MOUJAHED Nouhaila , SABAHI Rania , MOUSTAGHIT Nouhaila].
